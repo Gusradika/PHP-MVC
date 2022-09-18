@@ -44,3 +44,5 @@ public/About/page/10/20
 Aboout/page = [STATUSNYA ADA]
 10/20 = [STATUSNYA TIDAK ADA/ TIDAK DI CEK]
 maka 10 dan 20 akan menjadi parameter didalam index
+
+Controller juga dapat mengirimkan data Variable yang akan disetor melalui paramter index. dan akan di integrasikan ke folder Views. jadi secara umum Controllers hanya memuat data dan apa yang akan di tampilkan pada Views.
